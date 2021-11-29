@@ -1,13 +1,7 @@
 
 ![Into](/profile/Socialtech.gif)
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Socialtech is a simtropolis network design to socialise and develop key technologies empowering choice.⚡
+> ### Technology is a programming of nature. It is a capturing of phenomena and a harnessing of these to human purpose.
+- Channel Server - Omni Channels, Servers and Communities 
+- Communication Server - Real time chat and collaboration platform, using text message, audio and video.   
+- User Platform - Browse innovation and learning networks and content, manage profile, make connections and recommended collaborations. Create interactive applications, experiences, publications, bots, applets and content for the Web3.
