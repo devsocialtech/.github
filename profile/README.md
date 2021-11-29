@@ -1,5 +1,5 @@
 
-![Into](Socialtech.gif)
+![Into](/profile/Socialtech.gif)
 
 <!--
 
