@@ -1,7 +1,10 @@
 
 ![Into](/profile/Socialtech.gif)
-### Socialtech is a simtropolis network design to socialise and develop key technologies empowering choice.⚡
+### Our vision is to make technology universally accessible. We are building a new tech ecosystem that connects people and give them the tools to build their own systems of innovation and solutions empowering technological choice.⚡
 > ### Technology is a programming of nature. It is a capturing of phenomena and a harnessing of these to human purpose.
-- Channel Server - Omni Channels, Servers and Communities 
-- Communication Server - Real time chat and collaboration platform, using text message, audio and video.   
-- User Platform - Browse innovation and learning networks and content, manage profile, make connections and recommended collaborations. Create interactive applications, experiences, publications, bots, applets and content for the Web3.
+## Coditor
+Make the creation and application of software universally available. A tool designed to easily create, collaborate and run software using visual tools with any programming language on any platform using WebAssembly and Code Assistants.
+## Simtropolis 
+Digital twin cities designed to provide open real time interactive collabrative networks and learning environments using recent advances in modern digital technologies. Will act as a nerve center of digital experiences, the focus towards which the unifying forces of decentralised communication will converge and from which its energizing influences will radiate.
+## Roborg
+A rapidly deployable, remotely managed, modular manufacturing supply chain network enabled by industrial digital technologies. Using recent advances in 2D Materials, 3D Printing, Manufacturing Technologies and Robotics.
