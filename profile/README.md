@@ -10,5 +10,5 @@ Digital twin cities designed to provide open real time interactive collabrative 
 ![Projects](/profile/9.png)
 
 
-## Roborg
+## Robotory: Factory In a Box (FAIB)
 A rapidly deployable, remotely managed, modular manufacturing supply chain network enabled by industrial digital technologies. Using recent advances in 2D Materials, 3D Printing, Manufacturing Technologies and Robotics.
