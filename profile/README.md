@@ -1,8 +1,12 @@
 
 ![Intro](/profile/SocialTech.gif)
 
-### Our vision is to make technology universally accessible. We are building a new tech ecosystem that connects people and give them the tools to build their own systems of innovation and solutions empowering technological choice.⚡
-> ### Technology is a programming of nature. It is a capturing of phenomena and a harnessing of these to human purpose.
+> ### Technology is a programming of nature. It is a capturing of phenomena and a harnessing of these to human purpose. Technology serves to augment human capacity and thus advance social well-being and innovation.
+
+# 🔭 Vision
+
+> ### ⚡ Our vision is to make the creation, application and diffusion of technology universally accessible, empowering technological choice.
+
 
 
 
